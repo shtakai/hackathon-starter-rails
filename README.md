@@ -1,6 +1,8 @@
 Hackathon Starter Rails
 =======================
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/hackathon-starter-rails.svg)](https://www.guardrails.io)
+
 Hackathon starter for Rails developer. Inspired by [hackathon-starter](https://github.com/sahat/hackathon-starter).
 
 # Demo
